@@ -3,11 +3,11 @@
 ## Présentation du CTF 
 **ID** 38 dans **les CTFs de Cyrhades**
 
-Dans ce CTF vous devez vous connecter avec le compte administrateur, mais ici il n'y a pas d'accès au profil de l'admin
+Dans ce CTF vous devez vous connecter avec un compte, sans connaitre d'identifiant mot de passe.
 
 
 ## Aperçu
-![infos/capture.jpg](infos/capture.jpg)
+![presentation/assets/images/capture.jpg](presentation/assets/images/capture.jpg)
 
 
 
